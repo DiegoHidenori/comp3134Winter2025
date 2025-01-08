@@ -1,0 +1,20 @@
+What is the definition of server port?
+- A numerical identifier used in computer networking to direct data packets into specific processes or services on a server.
+
+What is server port range?
+- The server port range is from 0 to 65535, divided into 3 categories
+
+How many bits does number above represent?
+- 16 bits
+
+State 10 common server ports
+- 21
+- 22
+- 25
+- 53
+- 80
+- 110
+- 143
+- 443
+- 3306
+- 3389
