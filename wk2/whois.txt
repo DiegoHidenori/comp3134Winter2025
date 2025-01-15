@@ -1,0 +1,325 @@
+-> Apple
+
+Domain Name: apple.com
+Registry Domain ID: 1225976_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.comlaude.com
+Registrar URL: https://www.comlaude.com
+Updated Date: 2024-11-11T15:07:07Z
+Creation Date: 1987-02-19T05:00:00Z
+Registrar Registration Expiration Date: 2025-02-20T00:00:00Z
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Apple Inc.
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: CA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: email@anonymised.email
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: email@anonymised.email
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: email@anonymised.email
+Name Server: a.ns.apple.com
+Name Server: b.ns.apple.com
+Name Server: c.ns.apple.com
+Name Server: d.ns.apple.com
+DNSSEC: Unsigned Delegation
+Registrar Abuse Contact Email: email@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-15T13:20:47Z <<<
+
+-> Tesla
+
+Domain Name: tesla.com
+Registry Domain ID: 187902_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-10-02T10:15:20+0000
+Creation Date: 1992-11-04T05:00:00+0000
+Registrar Registration Expiration Date: 2026-11-03T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: DNStination Inc.
+Registrant Street: 3450 Sacramento Street, Suite 405
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94118
+Registrant Country: US
+Registrant Phone: +1.4155319335
+Registrant Phone Ext: 
+Registrant Fax: +1.4155319336
+Registrant Fax Ext: 
+Registrant Email: email@dnstinations.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: DNStination Inc.
+Admin Street: 3450 Sacramento Street, Suite 405
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94118
+Admin Country: US
+Admin Phone: +1.4155319335
+Admin Phone Ext: 
+Admin Fax: +1.4155319336
+Admin Fax Ext: 
+Admin Email: email@dnstinations.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: DNStination Inc.
+Tech Street: 3450 Sacramento Street, Suite 405
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94118
+Tech Country: US
+Tech Phone: +1.4155319335
+Tech Phone Ext: 
+Tech Fax: +1.4155319336
+Tech Fax Ext: 
+Tech Email: email@dnstinations.com
+Name Server: a28-65.akam.net
+Name Server: a1-12.akam.net
+Name Server: edns69.ultradns.biz
+Name Server: edns69.ultradns.net
+Name Server: a10-67.akam.net
+Name Server: a9-67.akam.net
+Name Server: edns69.ultradns.org
+Name Server: edns69.ultradns.com
+Name Server: a7-66.akam.net
+Name Server: a12-64.akam.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-11T19:43:59+0000 <<<
+
+-> Alienware
+
+Domain Name: ALIENWARE.COM
+Registry Domain ID: 5057575_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2024-02-08T00:52:07Z
+Creation Date: 1997-02-06T05:00:00Z
+Registrar Registration Expiration Date: 2025-02-07T05:00:00Z
+Registrar: Safenames Ltd
+Registrar IANA ID: 447
+Registrar Abuse Contact Email: email@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Data protected, not disclosed
+Registrant Organisation: Dell Inc.
+Registrant Street: Data protected, not disclosed
+Registrant Street: Data protected, not disclosed
+Registrant City: Data protected, not disclosed
+Registrant State/Province: Data protected, not disclosed
+Registrant Postal Code: Data protected, not disclosed
+Registrant Country: US
+Registrant Phone: Data protected, not disclosed
+Registrant Fax: Data protected, not disclosed
+Registrant Email: email@idp.email
+Registry Admin ID: Not Available From Registry
+Admin Name: International Domain Administrator
+Admin Organisation: Safenames Ltd
+Admin Street: Safenames House, Sunrise Parkway
+Admin Street: Linford Wood
+Admin City: Milton Keynes
+Admin State/Province: Bucks
+Admin Postal Code: MK14 6LS
+Admin Country: UK
+Admin Phone: +44.1908200022
+Admin Fax: +44.1908325192
+Admin Email: email@safenames.net
+Registry Tech ID: Not Available From Registry
+Tech Name: International Domain Tech
+Tech Organisation: Safenames Ltd
+Tech Street: Safenames House, Sunrise Parkway
+Tech Street: Linford Wood
+Tech City: Milton Keynes
+Tech State/Province: Bucks
+Tech Postal Code: MK14 6LS
+Tech Country: UK
+Tech Phone: +44.1908200022
+Tech Fax: +44.1908325192
+Tech Email: email@safenames.net
+Name Server: ns1ak.dell.com
+Name Server: ns1ns.dell.com
+Name Server: ns2ak.dell.com
+Name Server: ns2ns.dell.com
+Name Server: ns3ak.dell.com
+Name Server: ns3ns.dell.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-02-08T00:52:07Z <<<
+
+-> Nvidia
+
+Domain Name: NVIDIA.COM
+Registry Domain ID: 4076489_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2024-04-22T00:57:07Z
+Creation Date: 1993-04-20T04:00:00Z
+Registrar Registration Expiration Date: 2025-04-21T04:00:00Z
+Registrar: Safenames Ltd
+Registrar IANA ID: 447
+Registrar Abuse Contact Email: email@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Data protected, not disclosed
+Registrant Organisation: NVIDIA Corporation
+Registrant Street: Data protected, not disclosed
+Registrant Street: Data protected, not disclosed
+Registrant City: Data protected, not disclosed
+Registrant State/Province: Data protected, not disclosed
+Registrant Postal Code: Data protected, not disclosed
+Registrant Country: US
+Registrant Phone: Data protected, not disclosed
+Registrant Fax: Data protected, not disclosed
+Registrant Email: email@idp.email
+Registry Admin ID: Not Available From Registry
+Admin Name: International Domain Tech
+Admin Organisation: Safenames Ltd
+Admin Street: Safenames House, Sunrise Parkway
+Admin Street: Linford Wood
+Admin City: Milton Keynes
+Admin State/Province: Bucks
+Admin Postal Code: MK14 6LS
+Admin Country: UK
+Admin Phone: +44.1908200022
+Admin Fax: +44.1908325192
+Admin Email: email@safenames.net
+Registry Tech ID: Not Available From Registry
+Tech Name: International Domain Tech
+Tech Organisation: Safenames Ltd
+Tech Street: Safenames House, Sunrise Parkway
+Tech Street: Linford Wood
+Tech City: Milton Keynes
+Tech State/Province: Bucks
+Tech Postal Code: MK14 6LS
+Tech Country: UK
+Tech Phone: +44.1908200022
+Tech Fax: +44.1908325192
+Tech Email: email@safenames.net
+Name Server: dns1.p09.nsone.net
+Name Server: dns2.p09.nsone.net
+Name Server: ns5.dnsmadeeasy.com
+Name Server: ns6.dnsmadeeasy.com
+Name Server: ns7.dnsmadeeasy.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-04-22T00:57:07Z <<<
+
+-> AMD
+
+Domain Name: amd.com
+Registry Domain ID: 570887_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-08-02T02:17:33+0000
+Creation Date: 1986-11-17T08:00:00+0000
+Registrar Registration Expiration Date: 2025-11-15T08:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Advanced Micro Devices, Inc.
+Registrant Street: 2485 Augustine Drive, 
+Registrant City: Santa Clara
+Registrant State/Province: CA
+Registrant Postal Code: 95054
+Registrant Country: US
+Registrant Phone: +1.5126021000
+Registrant Phone Ext: 
+Registrant Fax: +1.5126020560
+Registrant Fax Ext: 
+Registrant Email: email@amd.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Advanced Micro Devices, Inc.
+Admin Street: 2485 Augustine Drive, 
+Admin City: Santa Clara
+Admin State/Province: CA
+Admin Postal Code: 95054
+Admin Country: US
+Admin Phone: +1.5126021000
+Admin Phone Ext: 
+Admin Fax: +1.5126020560
+Admin Fax Ext: 
+Admin Email: email@amd.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Advanced Micro Devices, Inc.
+Tech Street: 2485 Augustine Drive, 
+Tech City: Santa Clara
+Tech State/Province: CA
+Tech Postal Code: 95054
+Tech Country: US
+Tech Phone: +1.5126021000
+Tech Phone Ext: 
+Tech Fax: +1.5126020560
+Tech Fax Ext: 
+Tech Email: email@amd.com
+Name Server: ns0117.secondary.cloudflare.com
+Name Server: ns0241.secondary.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-10T07:21:52+0000 <<<

@@ -1,0 +1,3 @@
+root@Ubuntu-Droplet-DiegoHidenori:~# traceroute 143.198.37.250
+traceroute to 143.198.37.250 (143.198.37.250), 30 hops max, 60 byte packets
+ 1  Ubuntu-Droplet-DiegoHidenori (143.198.37.250)  0.038 ms  0.010 ms  0.009 ms

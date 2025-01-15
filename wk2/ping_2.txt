@@ -1,0 +1,12 @@
+$ ping 143.198.37.250
+
+Pinging 143.198.37.250 with 32 bytes of data:
+Reply from 143.198.37.250: bytes=32 time=39ms TTL=44
+Reply from 143.198.37.250: bytes=32 time=39ms TTL=44
+Reply from 143.198.37.250: bytes=32 time=40ms TTL=44
+Reply from 143.198.37.250: bytes=32 time=45ms TTL=44
+
+Ping statistics for 143.198.37.250:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 39ms, Maximum = 45ms, Average = 40ms

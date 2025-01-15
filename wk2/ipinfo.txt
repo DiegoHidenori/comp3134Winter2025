@@ -1,0 +1,30 @@
+-> Apple
+
+17.253.144.10	IPv4	Hosted by Apple Inc. Apple Inc.	United States of America
+2620:149:af0::10	IPv6	Hosted by Apple Inc. Apple Inc.	United States of America
+
+-> Tesla
+
+2.18.53.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+2.18.48.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+2.18.55.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+2.18.52.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+23.40.100.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+2.18.51.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	China
+23.7.244.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+2.18.49.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+2.18.50.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	China
+2.18.54.207	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+
+-> Alienware
+
+143.166.136.7	IPv4	Hosted by Dell, Inc. Dell, Inc.	United States of America
+143.166.30.167	IPv4	Hosted by Dell, Inc. Dell, Inc.	United States of America
+
+-> Nvidia
+
+34.194.97.138	IPv4	Hosted by Amazon.com, Inc. Amazon.com, Inc.	United States of America
+
+-> AMD
+
+23.45.136.99	IPv4	Hosted by Akamai Technologies, Inc. Akamai Technologies, Inc.	United States of America
