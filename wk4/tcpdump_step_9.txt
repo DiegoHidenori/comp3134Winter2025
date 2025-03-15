@@ -1,0 +1,108 @@
+02:39:27.717443 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 43872:44236, ack 1, win 501, length 364
+02:39:27.717504 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 44236:44600, ack 1, win 501, length 364
+02:39:27.717580 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 44600:44964, ack 1, win 501, length 364
+02:39:27.717776 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 44964:45880, ack 1, win 501, length 916
+02:39:27.717876 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 45880:46372, ack 1, win 501, length 492
+02:39:27.717983 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 46372:46880, ack 1, win 501, length 508
+02:39:27.718070 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 46880:47212, ack 1, win 501, length 332
+02:39:27.718160 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 47212:47688, ack 1, win 501, length 476
+02:39:27.718254 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 47688:48164, ack 1, win 501, length 476
+02:39:27.718361 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 48164:48792, ack 1, win 501, length 628
+02:39:27.718434 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 48792:49124, ack 1, win 501, length 332
+02:39:27.718524 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 49124:49600, ack 1, win 501, length 476
+02:39:27.718611 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 49600:49932, ack 1, win 501, length 332
+02:39:27.725952 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 36464, win 2046, length 0
+02:39:27.725953 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 37352, win 2042, length 0
+02:39:27.725953 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 37912, win 2047, length 0
+02:39:27.725953 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 38472, win 2045, length 0
+02:39:27.725953 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 39200, win 2042, length 0
+02:39:27.731935 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 40088, win 2047, length 0
+02:39:27.753535 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 40816, win 2045, length 0
+02:39:27.753536 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 41536, win 2042, length 0
+02:39:27.753536 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 42264, win 2047, length 0
+02:39:27.753536 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 43676, win 2042, length 0
+02:39:27.753536 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 44236, win 2047, length 0
+02:39:27.753536 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 44964, win 2045, length 0
+02:39:27.753536 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 46372, win 2047, length 0
+02:39:27.753536 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 47212, win 2044, length 0
+02:39:27.753639 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 48164, win 2047, length 0
+02:39:27.753639 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 49124, win 2044, length 0
+02:39:27.755864 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 49932, win 2047, length 0
+02:39:27.819831 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 49932:50128, ack 1, win 501, length 196
+02:39:27.819953 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 50128:50332, ack 1, win 501, length 204
+02:39:27.820064 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 50332:50856, ack 1, win 501, length 524
+02:39:27.820170 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 50856:51540, ack 1, win 501, length 684
+02:39:27.820235 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 51540:51904, ack 1, win 501, length 364
+02:39:27.820311 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 51904:52268, ack 1, win 501, length 364
+02:39:27.820395 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 52268:52632, ack 1, win 501, length 364
+02:39:27.820473 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 52632:53156, ack 1, win 501, length 524
+02:39:27.820561 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 53156:53520, ack 1, win 501, length 364
+02:39:27.820645 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 53520:53884, ack 1, win 501, length 364
+02:39:27.820710 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 53884:54248, ack 1, win 501, length 364
+02:39:27.820774 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 54248:54612, ack 1, win 501, length 364
+02:39:27.820836 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 54612:54976, ack 1, win 501, length 364
+02:39:27.821092 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 54976:55332, ack 1, win 501, length 356
+02:39:27.821140 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 55332:56016, ack 1, win 501, length 684
+02:39:27.821269 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 56016:56932, ack 1, win 501, length 916
+02:39:27.821368 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 56932:57408, ack 1, win 501, length 476
+02:39:27.821475 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 57408:58072, ack 1, win 501, length 664
+02:39:27.821544 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 58072:58260, ack 1, win 501, length 188
+02:39:27.821643 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 58260:58744, ack 1, win 501, length 484
+02:39:27.834109 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 50332, win 2046, length 0
+02:39:27.834110 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 51540, win 2047, length 0
+02:39:27.834110 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 52268, win 2045, length 0
+02:39:27.834110 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 53156, win 2047, length 0
+02:39:27.834110 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 53884, win 2045, length 0
+02:39:27.834110 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 54612, win 2042, length 0
+02:39:27.834110 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 55332, win 2047, length 0
+02:39:27.834110 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 56932, win 2047, length 0
+02:39:27.834190 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 58072, win 2043, length 0
+02:39:27.834190 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 58744, win 2047, length 0
+02:39:27.850258 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1:37, ack 58744, win 2047, length 36
+02:39:27.891573 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [.], ack 37, win 501, length 0
+02:39:27.923821 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 58744:59100, ack 37, win 501, length 356
+02:39:27.924096 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 59100:60920, ack 37, win 501, length 1820
+02:39:27.924246 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 60920:61764, ack 37, win 501, length 844
+02:39:27.924376 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 61764:62272, ack 37, win 501, length 508
+02:39:27.924500 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 62272:62892, ack 37, win 501, length 620
+02:39:27.924609 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 62892:63520, ack 37, win 501, length 628
+02:39:27.924674 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 63520:63860, ack 37, win 501, length 340
+02:39:27.924731 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 63860:64040, ack 37, win 501, length 180
+02:39:27.936017 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 60560, win 2047, length 0
+02:39:27.936018 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 61764, win 2043, length 0
+02:39:27.936018 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 62892, win 2047, length 0
+02:39:27.936018 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 63860, win 2044, length 0
+02:39:28.008063 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 64040, win 2043, length 0
+02:39:28.027782 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 64040:64236, ack 37, win 501, length 196
+02:39:28.027932 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 64236:64600, ack 37, win 501, length 364
+02:39:28.028029 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 64600:65124, ack 37, win 501, length 524
+02:39:28.028121 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 65124:65488, ack 37, win 501, length 364
+02:39:28.028205 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 65488:65964, ack 37, win 501, length 476
+02:39:28.028270 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 65964:66296, ack 37, win 501, length 332
+02:39:28.064869 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 64600, win 2047, length 0
+02:39:28.064869 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 65488, win 2044, length 0
+02:39:28.064869 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 66296, win 2047, length 0
+02:39:28.131790 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 66296:66492, ack 37, win 501, length 196
+02:39:28.131879 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 66492:66696, ack 37, win 501, length 204
+02:39:28.131934 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 66696:66900, ack 37, win 501, length 204
+02:39:28.131984 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 66900:67104, ack 37, win 501, length 204
+02:39:28.132051 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 67104:67468, ack 37, win 501, length 364
+02:39:28.132116 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 67468:67800, ack 37, win 501, length 332
+02:39:28.132299 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 67800:67988, ack 37, win 501, length 188
+02:39:28.172588 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 66696, win 2046, length 0
+02:39:28.172676 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 67104, win 2044, length 0
+02:39:28.172684 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 67800, win 2047, length 0
+02:39:28.199732 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 67988, win 2047, length 0
+02:39:28.235798 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 67988:68184, ack 37, win 501, length 196
+02:39:28.235948 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 68184:68708, ack 37, win 501, length 524
+02:39:28.236050 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 68708:69232, ack 37, win 501, length 524
+02:39:28.236117 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 69232:69564, ack 37, win 501, length 332
+02:39:28.236182 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 69564:69896, ack 37, win 501, length 332
+02:39:28.280806 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 68708, win 2044, length 0
+02:39:28.281290 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 69564, win 2047, length 0
+02:39:28.329480 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 69896, win 2046, length 0
+^C
+367 packets captured
+374 packets received by filter
+0 packets dropped by kernel
+root@Ubuntu-Droplet-DiegoHidenori:~#

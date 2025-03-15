@@ -1,0 +1,35 @@
+02:34:25.567081 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 12092152:12092404, ack 2629, win 501, length 252
+E..$..@.@.....%.. W....C..fA....P........{3.D..n.<Yz....=...$.t.s...r..4....:H..I.{....m........zg..XUO.....2B...Ay..F..Y..........A.L.0..j.I\. X.M.Z...>.E.Csr.4B.....V.i.......?...g.D1[.R\.?(e.jta...>..g....5....LX..>V......k........S..4......k.m..
+........x..f.sH..y..W.a.lm.{~.vE&..F...d.k
+02:34:25.567114 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 12092404:12092480, ack 2629, win 501, length 76
+E..t..@.@.....%.. W....C..g=....P........../E[m.>.iy+{y..D:*x..?.9....:}.X7..2Oz.4%.3./.5..!g..O.(..c......../d&z...
+02:34:25.567180 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 12092480:12092828, ack 2629, win 501, length 348
+E.... @.@.....%.. W....C..g.....P............k.......&......;f..]......6..mt.G.AG...@.zp..
+.~d.A.P..=.f.T.'S.e.,.]0......f.Zf{.....T"z..f.mS~...{NXf..<..rv*.C..h.$        6.9.s._...@'..c ..@......}w}.....+A.[ksFZv."....\`..f..s....w..V..."H7...PUz....:(.+...N?D;........     !-vV.{....u..3.D..      .P._..]NnR..E...&/Wd.....70.G6.....h)."R.......w)].#7..*^..,-.l..c....E6....L.y.8.d....my.E.'.~<.H.....-.
+02:34:25.567233 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 12092828:12093152, ack 2629, win 501, length 324
+E..l.!@.@.....%.. W....C..h.....P..........J6......     ]5;P.VP..-..?r.F%......D..D!K2...h......n       '...%.x..[Hc.....b=..a.XyI...S.........,+.G..j..v..*+..5........Xj
+F#b...(....
+..*.X...3e.0 .3.....V...bln.1..<xL.#...-.....T.k.67.q?....0....k#o.$e0...DlE..sm.....G.?.E..LP..7?0..h.%\R....7._....m.B........4.$...
+0....W....U.........ih......p...!..H.. ......a..Z.c.?|_7
+02:34:25.567265 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 11999348, win 1270, length 0
+E..(O.@.w.... W...%..C..........P.............
+02:34:25.567265 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 11999708, win 1269, length 0
+E..(O.@.w.... W...%..C.........%P....~........
+02:34:25.567292 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 12093152:12093260, ack 2629, win 501, length 108
+E...."@.@.....%.. W....C..j)....P........].! p@..<.....i.4Z.&..E.Z.B..Q....&5....q.U(...43.w...h.;......~9...p.jy.z....Z.l2+..G..Ns...<.x(.+.W...Ll.
+02:34:25.567332 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 12093260:12093464, ack 2629, win 501, length 204
+E....#@.@..F..%.. W....C..j.....P....p......\#.xa.H....o.....T.P..S..u....G..e..KN"' ...,.n......?g&On".'....2......{..U......pC.I-....W..[1.2h.S.d........%r...7.{..\..`.J.#s..,jr@%...g:...]...$S..#..o...15...E....]..N;..jN8.%.q......E>".|.s.6.
+02:34:25.567397 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 12093464:12093884, ack 2629, win 501, length 420
+E....$@.@..m..%.. W....C..ka....P....H...y..>...L.L ...[OF.v.."....EN...b3.d...3m..J.Ys.vxv..T...{...r`.........PN.=....e]W..........J_D...l....0~....HW..N..~....J.bs...=...x@NN..%....UX}V....~?.Di....r...=..IY.K..I.U..y....................>`|d..J...n.yI..k............dU;.......%.L=..U8JS`n.|.}.6...lG.`y.h...1~pZ......UK...w..t...VF..~.cW
+M.....~!........._8@4..-.*..NoZ....|.....L.Ae.L.....0.-pk. #.:q.j3..y3.".vd.e.*........|....<..t..<.Rc.V        .....'....G^)C
+02:34:25.567473 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 12093884:12094372, ack 2629, win 501, length 488
+E....%@.@..(..%.. W....C..m.....P........Y........rm....'.x0......z......."......vv...p-!2.@..*....,............H..@...]..`v!..N..f..   ...u^.........k..x....>./.Cm.I...1...l.&.(.7d. .Ic.     .|..\
+.b.6.G^..pQ.....p?G..~..\.Z.q.J*R.;6...$.(~......`.vP^.....,.`A...Kd....,..{.3#...G%..;.G....-.*.~mM..IYyA[..y.UDIo.+ox..}l/.....\@.lMS..$z..._@VW...|......9......|......*.    .....z.aJ.k.5C.=%EP.....0t......-.....dc>..f`.]A.,..i....o...wX..R...~.....
+.....Y.....`.....w...X...^C
+.m..c....
+.....=........,.C{
+
+19497 packets captured
+46817 packets received by filter
+22749 packets dropped by kernel
+root@Ubuntu-Droplet-DiegoHidenori:~#

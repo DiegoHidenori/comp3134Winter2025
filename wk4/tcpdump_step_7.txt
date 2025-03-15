@@ -1,0 +1,90 @@
+root@Ubuntu-Droplet-DiegoHidenori:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+02:37:08.769221 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 3007260277:3007260321, ack 2763006929, win 501, length 44
+02:37:08.769301 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 44:96, ack 1, win 501, length 52
+02:37:08.769357 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 96:164, ack 1, win 501, length 68
+02:37:08.769440 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 164:232, ack 1, win 501, length 68
+02:37:08.769488 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 232:268, ack 1, win 501, length 36
+02:37:08.774909 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 44, win 2042, length 0
+02:37:08.779778 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 164, win 2047, length 0
+02:37:08.781152 IP pool-173-32-87-169.cpe.net.cable.rogers.com.32579 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 268, win 2047, length 0
+02:37:17.388956 IP 152.32.140.188.36480 > Ubuntu-Droplet-DiegoHidenori.30206: Flags [S], seq 518110000, win 1024, options [mss 1412], length 0
+02:37:17.730715 IP 167.94.145.84.58342 > Ubuntu-Droplet-DiegoHidenori.20537: Flags [S], seq 1580146974, win 42340, options [mss 1460,sackOK,TS val 1739383584 ecr 0,nop,wscale 10], length 0
+02:37:18.226143 IP azpdwgzht57y.stretchoid.com.46522 > Ubuntu-Droplet-DiegoHidenori.9160: Flags [S], seq 3881412541, win 65535, length 0
+02:37:19.724795 IP 45.142.193.88.42543 > Ubuntu-Droplet-DiegoHidenori.22370: Flags [S], seq 2823054259, win 1024, length 0
+02:37:21.778519 IP 45.142.193.88.42543 > Ubuntu-Droplet-DiegoHidenori.24383: Flags [S], seq 4275280914, win 1024, length 0
+02:37:24.262493 IP 45.142.193.88.42543 > Ubuntu-Droplet-DiegoHidenori.11797: Flags [S], seq 2645658338, win 1024, length 0
+02:37:24.486563 IP 45.142.193.88.42543 > Ubuntu-Droplet-DiegoHidenori.19236: Flags [S], seq 355526052, win 1024, length 0
+02:37:25.160052 IP 47.74.46.108.48633 > Ubuntu-Droplet-DiegoHidenori.sip-tls: Flags [S], seq 3126374042, win 61690, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+02:37:27.109164 IP 214.211.203.35.bc.googleusercontent.com.49429 > Ubuntu-Droplet-DiegoHidenori.9551: Flags [S], seq 1887095443, win 65535, options [mss 1460], length 0
+02:37:28.624157 IP 45.142.193.88.42543 > Ubuntu-Droplet-DiegoHidenori.16574: Flags [S], seq 1590647659, win 1024, length 0
+02:37:33.942082 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [S], seq 65453870, win 29200, options [mss 1460,sackOK,TS val 1918881857 ecr 0,nop,wscale 7], length 0
+02:37:33.942161 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [S.], seq 1070355623, ack 65453871, win 65160, options [mss 1460,sackOK,TS val 3147698339 ecr 1918881857,nop,wscale 7], length 0
+02:37:34.154018 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 1918881909 ecr 3147698339], length 0
+02:37:34.154018 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1:16, ack 1, win 229, options [nop,nop,TS val 1918881909 ecr 3147698339], length 15: SSH: SSH-2.0-PUTTY
+02:37:34.154105 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 16, win 509, options [nop,nop,TS val 3147698551 ecr 1918881909], length 0
+02:37:34.167018 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [P.], seq 1:43, ack 16, win 509, options [nop,nop,TS val 3147698564 ecr 1918881909], length 42: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.11
+02:37:34.375193 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 43, win 229, options [nop,nop,TS val 1918881965 ecr 3147698564], length 0
+02:37:34.375339 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [P.], seq 43:1155, ack 16, win 509, options [nop,nop,TS val 3147698772 ecr 1918881965], length 1112
+02:37:34.375364 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 16:872, ack 43, win 229, options [nop,nop,TS val 1918881965 ecr 3147698564], length 856
+02:37:34.415564 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 872, win 503, options [nop,nop,TS val 3147698813 ecr 1918881965], length 0
+02:37:34.625142 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1155, win 246, options [nop,nop,TS val 1918882028 ecr 3147698772], length 0
+02:37:34.625793 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 872:952, ack 1155, win 246, options [nop,nop,TS val 1918882028 ecr 3147698813], length 80
+02:37:34.625833 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 952, win 503, options [nop,nop,TS val 3147699023 ecr 1918882028], length 0
+02:37:34.627105 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [P.], seq 1155:1467, ack 952, win 503, options [nop,nop,TS val 3147699024 ecr 1918882028], length 312
+02:37:34.835605 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1467, win 263, options [nop,nop,TS val 1918882080 ecr 3147699024], length 0
+02:37:34.836834 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 952:968, ack 1467, win 263, options [nop,nop,TS val 1918882080 ecr 3147699024], length 16
+02:37:34.879539 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 968, win 503, options [nop,nop,TS val 3147699277 ecr 1918882080], length 0
+02:37:35.087756 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 968:1032, ack 1467, win 263, options [nop,nop,TS val 1918882143 ecr 3147699277], length 64
+02:37:35.087808 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 1032, win 503, options [nop,nop,TS val 3147699485 ecr 1918882143], length 0
+02:37:35.087961 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [P.], seq 1467:1531, ack 1032, win 503, options [nop,nop,TS val 3147699485 ecr 1918882143], length 64
+02:37:35.297996 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1032:1112, ack 1531, win 263, options [nop,nop,TS val 1918882196 ecr 3147699485], length 80
+02:37:35.306466 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [P.], seq 1531:1611, ack 1112, win 503, options [nop,nop,TS val 3147699703 ecr 1918882196], length 80
+02:37:35.515387 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1112:1208, ack 1611, win 263, options [nop,nop,TS val 1918882250 ecr 3147699703], length 96
+02:37:35.555547 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 1208, win 503, options [nop,nop,TS val 3147699953 ecr 1918882250], length 0
+02:37:37.603509 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [P.], seq 1611:1691, ack 1208, win 503, options [nop,nop,TS val 3147702000 ecr 1918882250], length 80
+02:37:37.811796 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1208:1304, ack 1691, win 263, options [nop,nop,TS val 1918882824 ecr 3147702000], length 96
+02:37:37.811865 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 1304, win 503, options [nop,nop,TS val 3147702209 ecr 1918882824], length 0
+02:37:39.721443 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [S], seq 667950682, win 62370, options [mss 8910,sackOK,TS val 255858729 ecr 0,nop,wscale 7], length 0
+02:37:39.721525 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [S.], seq 4075206080, ack 667950683, win 65160, options [mss 1460,sackOK,TS val 2597196014 ecr 255858729,nop,wscale 7], length 0
+02:37:39.843537 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1, win 488, options [nop,nop,TS val 255858865 ecr 2597196014], length 0
+02:37:39.856455 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [P.], seq 1:43, ack 1, win 510, options [nop,nop,TS val 2597196148 ecr 255858865], length 42: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.11
+02:37:39.995572 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 43, win 488, options [nop,nop,TS val 255859009 ecr 2597196148], length 0
+02:37:40.106189 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], seq 25:1473, ack 43, win 488, options [nop,nop,TS val 255859124 ecr 2597196148], length 1448
+02:37:40.106244 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [.], ack 1, win 510, options [nop,nop,TS val 2597196398 ecr 255859009,nop,nop,sack 1 {25:1473}], length 0
+02:37:40.243726 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1:25, ack 43, win 488, options [nop,nop,TS val 255859253 ecr 2597196398], length 24: SSH: SSH-2.0-libssh2_1.11.1
+02:37:40.243790 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [.], ack 1473, win 501, options [nop,nop,TS val 2597196536 ecr 255859253], length 0
+02:37:40.245634 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [P.], seq 43:1155, ack 1473, win 501, options [nop,nop,TS val 2597196538 ecr 255859253], length 1112
+02:37:40.375660 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1473:1537, ack 43, win 488, options [nop,nop,TS val 255859387 ecr 2597196536], length 64
+02:37:40.419561 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [.], ack 1537, win 501, options [nop,nop,TS val 2597196712 ecr 255859387], length 0
+02:37:40.423933 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1155, win 480, options [nop,nop,TS val 255859443 ecr 2597196538], length 0
+02:37:40.558349 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1537:1585, ack 1155, win 480, options [nop,nop,TS val 255859573 ecr 2597196712], length 48
+02:37:40.558410 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [.], ack 1585, win 501, options [nop,nop,TS val 2597196850 ecr 255859573], length 0
+02:37:40.567350 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [P.], seq 1155:1751, ack 1585, win 501, options [nop,nop,TS val 2597196859 ecr 255859573], length 596
+02:37:40.701166 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1751, win 476, options [nop,nop,TS val 255859715 ecr 2597196859], length 0
+02:37:40.854684 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1585:1601, ack 1751, win 476, options [nop,nop,TS val 255859870 ecr 2597196859], length 16
+02:37:40.895571 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [.], ack 1601, win 501, options [nop,nop,TS val 2597197188 ecr 255859870], length 0
+02:37:41.025162 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1601:1645, ack 1751, win 476, options [nop,nop,TS val 255860047 ecr 2597197188], length 44
+02:37:41.025231 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [.], ack 1645, win 501, options [nop,nop,TS val 2597197317 ecr 255860047], length 0
+02:37:41.025348 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [P.], seq 1751:1795, ack 1645, win 501, options [nop,nop,TS val 2597197317 ecr 255860047], length 44
+02:37:41.165418 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1795, win 476, options [nop,nop,TS val 255860180 ecr 2597197317], length 0
+02:37:41.304181 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1645:1729, ack 1795, win 476, options [nop,nop,TS val 255860316 ecr 2597197317], length 84
+02:37:41.347545 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [.], ack 1729, win 501, options [nop,nop,TS val 2597197640 ecr 255860316], length 0
+02:37:41.987470 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [P.], seq 1691:1771, ack 1304, win 503, options [nop,nop,TS val 3147706384 ecr 1918882824], length 80
+02:37:42.198170 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1304:1400, ack 1771, win 263, options [nop,nop,TS val 1918883921 ecr 3147706384], length 96
+02:37:42.198229 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 1400, win 503, options [nop,nop,TS val 3147706595 ecr 1918883921], length 0
+02:37:43.392144 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [P.], seq 1795:1847, ack 1729, win 501, options [nop,nop,TS val 2597199684 ecr 255860316], length 52
+02:37:43.527273 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1847, win 476, options [nop,nop,TS val 255862540 ecr 2597199684], length 0
+02:37:43.627403 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [F.], seq 1729, ack 1847, win 476, options [nop,nop,TS val 255862625 ecr 2597199684], length 0
+02:37:43.628847 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [F.], seq 1847, ack 1730, win 501, options [nop,nop,TS val 2597199921 ecr 255862625], length 0
+02:37:43.995578 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [F.], seq 1847, ack 1730, win 501, options [nop,nop,TS val 2597200288 ecr 255862625], length 0
+02:37:44.286205 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [P.], seq 1771:1851, ack 1400, win 503, options [nop,nop,TS val 3147708683 ecr 1918883921], length 80
+02:37:44.347583 IP Ubuntu-Droplet-DiegoHidenori.ssh > 45.152.211.102.angolacables.ao.43592: Flags [F.], seq 1847, ack 1730, win 501, options [nop,nop,TS val 2597200640 ecr 255862625], length 0
+02:37:44.482974 IP 45.152.211.102.angolacables.ao.43592 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1848, win 476, options [nop,nop,TS val 255863497 ecr 2597199921], length 0
+02:37:44.496413 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [P.], seq 1400:1464, ack 1851, win 263, options [nop,nop,TS val 1918884495 ecr 3147708683], length 64
+02:37:44.496413 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [F.], seq 1464, ack 1851, win 263, options [nop,nop,TS val 1918884495 ecr 3147708683], length 0
+02:37:44.496471 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [.], ack 1464, win 503, options [nop,nop,TS val 3147708893 ecr 1918884495], length 0
+02:37:44.498407 IP Ubuntu-Droplet-DiegoHidenori.ssh > 218.92.0.157.46347: Flags [F.], seq 1851, ack 1465, win 503, options [nop,nop,TS val 3147708895 ecr 1918884495], length 0
+02:37:44.706718 IP 218.92.0.157.46347 > Ubuntu-Droplet-DiegoHidenori.ssh: Flags [.], ack 1852, win 263, options [nop,nop,TS val 1918884548 ecr 3147708895], length 0
+02:37:46.065999 IP a93200c42e.scan.leakix.org.44513 > Ubuntu-Droplet-DiegoHidenori.1574: Flags [S], seq 3441931344, win 1024, length 0
+root@Ubuntu-Droplet-DiegoHidenori:~#

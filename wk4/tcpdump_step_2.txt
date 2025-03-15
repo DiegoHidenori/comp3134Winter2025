@@ -1,0 +1,13 @@
+root@Ubuntu-Droplet-DiegoHidenori:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+02:32:34.675682 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 2987644949:2987645057, ack 2762998365, win 501, length 108
+02:32:34.675742 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 108:144, ack 1, win 501, length 36
+02:32:34.675773 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 144:196, ack 1, win 501, length 52
+02:32:34.675804 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 196:264, ack 1, win 501, length 68
+02:32:34.675833 IP Ubuntu-Droplet-DiegoHidenori.ssh > pool-173-32-87-169.cpe.net.cable.rogers.com.32579: Flags [P.], seq 264:332, ack 1, win 501, length 68
+5 packets captured
+33 packets received by filter
+0 packets dropped by kernel
+root@Ubuntu-Droplet-DiegoHidenori:~#
+
