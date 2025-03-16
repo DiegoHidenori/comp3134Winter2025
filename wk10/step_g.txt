@@ -1,0 +1,3 @@
+Step G has the comments visible in the browser source code, so they can leak sensitive information.
+
+Will fix this by converting html comments to php comments.

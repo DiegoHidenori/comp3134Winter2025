@@ -1,0 +1,3 @@
+This url is listing the contents, showing the html directory.
+
+Proves that /var/www/html/ is an actual directory, and lets an attacker understand the file system.

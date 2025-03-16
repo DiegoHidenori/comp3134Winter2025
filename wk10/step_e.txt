@@ -1,0 +1,3 @@
+basename($path) prevents ../../ attacks.
+
+file_exists() checks if folder exists before scanning.

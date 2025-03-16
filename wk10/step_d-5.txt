@@ -1,0 +1,4 @@
+It shows the content of one directory up. Above wk10
+
+It shows that the website is hosted under /var/www/html/ and it could show that there are files like config.php
+and .env, which the attacker could see.

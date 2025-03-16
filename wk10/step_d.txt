@@ -1,0 +1,7 @@
+I see 2 warnings:
+
+Warning:  scandir(hello): Failed to open directory: No such file or directory in /var/www/html/wk10/directory_traversal_part1.php on line 7
+
+Warning:  scandir(): (errno 2): No such file or directory in /var/www/html/wk10/directory_traversal_part1.php on line 7
+
+This page is exposing system directories and sensitive files like config.php. It also shows full file paths.
