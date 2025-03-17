@@ -1,0 +1,7 @@
+1 - The url becomes https://www.dictionary.com/browse/Vehicle
+
+2 - It shows that it wasn't found. Url stays with the invalid word.
+
+3 - It shows 'No results found for <script>alert('hello')</script>'
+
+4 - The script isn't treated as a word, so it doesn't trigger a not found page.

@@ -1,0 +1,7 @@
+strip_tags() removes any HTML tags from the input, so if someone enters "<b>Hello</b>", it just shows "Hello" without the 
+bold formatting.
+
+htmlspecialchars() keeps the HTML tags but converts them into safe characters. For example, "<b>Hello</b>" 
+gets displayed as "&lt;b&gt;Hello&lt;/b&gt;" in the browser, so the tags won’t be processed as actual HTML.
+
+strip_tags() removes HTML, while htmlspecialchars() keeps it but makes it harmless.
