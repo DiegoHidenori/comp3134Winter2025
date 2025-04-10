@@ -1,0 +1,3 @@
+- The script is executed directly from storage without any sanitization.
+- This allows persistent XSS attacks.
+- Visiting storexss.php can redirect users or inject malware silently.

@@ -1,0 +1,4 @@
+- csfr_form.php successfully sets a session token and includes it in the form.
+- csfr_action.php verifies that the token matches.
+- Submitting csfr.html without a token fails verification.
+- This successfully prevents forged requests.
