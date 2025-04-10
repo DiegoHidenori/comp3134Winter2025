@@ -1,0 +1,3 @@
+Mitigation: Used prepared statements in getusers_2.php.
+Result: SQL injection attempts failed. Inputs were treated as strings, not SQL logic.
+All three test cases returned no data. Injection neutralized.
